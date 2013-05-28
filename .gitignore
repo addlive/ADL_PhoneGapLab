@@ -16,3 +16,10 @@ profile
 *.moved-aside
 DerivedData
 .idea/
+
+# AddLive Stuff
+AddLive.h
+AddLive.m
+addlive-sdk.js
+addlive-mobile-sdk.js
+AddLive.framework
